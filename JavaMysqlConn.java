@@ -54,4 +54,29 @@ e.printStackTrace();
 }
 System.out.println("Goodbye!"); }//end main
 }//end JDBCExample
+/******* OUTPUT*****************
+Demonstartion of mysql conn
+Connecting to a selected database...
+Roll no3211
+Name: Shikha
+Marks82
+Roll no3212
+Name: Sakshi
+Marks88
+Roll no3214
+Name: Asha
+Marks88
+Roll no3215
+Name: Fiza
+Marks74
+Roll no3223
+Name: Riya
+Marks74
+Roll no3278
+Name: Ameya
+Marks95
+Connected database successfully...
+You made it, take control your database now!
+Goodbye!
 
+*******/
